@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generative Models/Non-Visible Light Data Synthesis and Application - A Case Study for Synthetic Aperture Radar Imagery.md",
+                "file": "Models & SOTA/Depth Anything V2 Paper.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative Models/Non-Visible Light Data Synthesis and Application - A Case Study for Synthetic Aperture Radar Imagery.md",
+                "file": "Models & SOTA/Depth Anything V2 Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generative Models/Non-Visible Light Data Synthesis and Application - A Case Study for Synthetic Aperture Radar Imagery.md",
+                "file": "Models & SOTA/Depth Anything V2 Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generative Models/Non-Visible Light Data Synthesis and Application - A Case Study for Synthetic Aperture Radar Imagery.md"
+                "file": "Models & SOTA/Depth Anything V2 Paper.md"
               }
             }
           }
@@ -161,15 +161,41 @@
   },
   "active": "dc926faa7e9cfe01",
   "lastOpenFiles": [
-    "Generative Models/High-Resolution Image Synthesis with Latent Diffusion Models.md",
-    "Generative Models/Denoising Diffusion Probabilistic Models.md",
-    "Explaining AI/Class Activation Maps (CAM).md",
-    "Explaining AI/UMAP.md",
     "Generative Models/Non-Visible Light Data Synthesis and Application - A Case Study for Synthetic Aperture Radar Imagery.md",
+    "Linux/Linux is Life 🤓.md",
+    "Linux is Life 🤓.md",
+    "Linux",
+    "Linuz",
+    "New folder",
+    "Robotics and Motion Planning/Visual Servoing.md",
+    "Robotics and Motion Planning/Roll Pitch Yaw wrt Camera Frame.md",
+    "Robotics and Motion Planning/Monocular SLAM Field Survey.md",
+    "Robotics and Motion Planning/Vanilla Kalman Filter.md",
+    "Robotics and Motion Planning/NeW CRFs - Neural Window Fully-connected CRFs for Monocular Depth Estimation.md",
+    "Robotics and Motion Planning/LQR Controller.md",
+    "Robotics and Motion Planning/EKF (with pose information).md",
+    "Robotics and Motion Planning",
+    "ROS/ROS Nvidia Container Standup.md",
+    "ROS/ROS 2 Commands.md",
+    "ROS/ROS2 Migration.md",
+    "ROS/Robotics and Motion Planning/Roll Pitch Yaw wrt Camera Frame.md",
+    "ROS/Robotics and Motion Planning/Monocular SLAM Field Survey.md",
+    "ROS/Robotics and Motion Planning/LQR Controller.md",
+    "ROS/Robotics and Motion Planning/EKF (with pose information).md",
+    "ROS/Robotics and Motion Planning/Visual Servoing.md",
+    "ROS/Robotics and Motion Planning/Vanilla Kalman Filter.md",
+    "ROS/Robotics and Motion Planning/NeW CRFs - Neural Window Fully-connected CRFs for Monocular Depth Estimation.md",
+    "Models & SOTA/Depth Anything V2 Paper.md",
+    "Models & SOTA/Depth Anything V2 Capabilities.md",
+    "ROS/Visual Servoing - Copy.md",
+    "ROS/Vanilla Kalman Filter - Copy.md",
+    "ROS/Roll Pitch Yaw wrt Camera Frame - Copy.md",
+    "ROS/NeW CRFs - Neural Window Fully-connected CRFs for Monocular Depth Estimation - Copy.md",
+    "ROS/Robotics and Motion Planning",
+    "ROS/New folder",
+    "ROS",
     "Explaining AI",
     "Generative Models",
-    "Models & SOTA/Grounding DINO.md",
-    "Models & SOTA/DINOv2.md",
     "Models & SOTA"
   ]
 }
