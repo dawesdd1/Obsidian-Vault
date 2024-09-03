@@ -11,28 +11,13 @@
             "id": "47f9453f90b55d66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Explaining AI/Class Activation Maps (CAM).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "637e094b4dc8b742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Models & SOTA/Depth Anything V2 Paper.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Pasted image 20240903132010.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models & SOTA/Depth Anything V2 Paper.md",
+                "file": "Assets/Pasted image 20240903132010.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models & SOTA/Depth Anything V2 Paper.md",
+                "file": "Assets/Pasted image 20240903132010.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models & SOTA/Depth Anything V2 Paper.md"
+                "file": "Assets/Pasted image 20240903132010.png"
               }
             }
           }
@@ -161,7 +146,14 @@
   },
   "active": "dc926faa7e9cfe01",
   "lastOpenFiles": [
+    "Explaining AI/Class Activation Maps (CAM).md",
+    "Assets",
+    "Assets/Pasted image 20240830135643.png",
+    "Generative Models/Denoising Diffusion Probabilistic Models (DDPM).md",
+    "Assets/Pasted image 20240903132010.png",
+    "Generative Models/High-Resolution Image Synthesis with Latent Diffusion Models (LDMs).md",
     "Generative Models/Non-Visible Light Data Synthesis and Application - A Case Study for Synthetic Aperture Radar Imagery.md",
+    "Pasted image 20240903132010 1.png",
     "Linux/Linux is Life 🤓.md",
     "Linux is Life 🤓.md",
     "Linux",
@@ -187,15 +179,10 @@
     "ROS/Robotics and Motion Planning/NeW CRFs - Neural Window Fully-connected CRFs for Monocular Depth Estimation.md",
     "Models & SOTA/Depth Anything V2 Paper.md",
     "Models & SOTA/Depth Anything V2 Capabilities.md",
-    "ROS/Visual Servoing - Copy.md",
-    "ROS/Vanilla Kalman Filter - Copy.md",
-    "ROS/Roll Pitch Yaw wrt Camera Frame - Copy.md",
-    "ROS/NeW CRFs - Neural Window Fully-connected CRFs for Monocular Depth Estimation - Copy.md",
     "ROS/Robotics and Motion Planning",
     "ROS/New folder",
     "ROS",
     "Explaining AI",
-    "Generative Models",
-    "Models & SOTA"
+    "Generative Models"
   ]
 }
